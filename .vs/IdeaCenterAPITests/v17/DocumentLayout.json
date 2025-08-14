@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEV\\SoftUni_QA_Back-End-Test-Automation\\13.ExamPrep-1\\IdeaCenterAPITests\\IdeaCenterAPITests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B848E84-83CD-4BC0-A720-27B6C0C33006}|IdeaCenterAPITests\\IdeaCenterAPITests.csproj|d:\\dev\\softuni_qa_back-end-test-automation\\13.examprep-1\\ideacenterapitests\\ideacenterapitests\\ideacenterapitests\\ideacenterapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B848E84-83CD-4BC0-A720-27B6C0C33006}|IdeaCenterAPITests\\IdeaCenterAPITests.csproj|solutionrelative:ideacenterapitests\\ideacenterapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B848E84-83CD-4BC0-A720-27B6C0C33006}|IdeaCenterAPITests\\IdeaCenterAPITests.csproj|d:\\dev\\softuni_qa_back-end-test-automation\\13.examprep-1\\ideacenterapitests\\ideacenterapitests\\ideacenterapitests\\models\\ideadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B848E84-83CD-4BC0-A720-27B6C0C33006}|IdeaCenterAPITests\\IdeaCenterAPITests.csproj|solutionrelative:ideacenterapitests\\models\\ideadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B848E84-83CD-4BC0-A720-27B6C0C33006}|IdeaCenterAPITests\\IdeaCenterAPITests.csproj|d:\\dev\\softuni_qa_back-end-test-automation\\13.examprep-1\\ideacenterapitests\\ideacenterapitests\\ideacenterapitests\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B848E84-83CD-4BC0-A720-27B6C0C33006}|IdeaCenterAPITests\\IdeaCenterAPITests.csproj|solutionrelative:ideacenterapitests\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdeaDTO.cs",
+              "DocumentMoniker": "D:\\DEV\\SoftUni_QA_Back-End-Test-Automation\\13.ExamPrep-1\\IdeaCenterAPITests\\IdeaCenterAPITests\\IdeaCenterAPITests\\Models\\IdeaDTO.cs",
+              "RelativeDocumentMoniker": "IdeaCenterAPITests\\Models\\IdeaDTO.cs",
+              "ToolTip": "D:\\DEV\\SoftUni_QA_Back-End-Test-Automation\\13.ExamPrep-1\\IdeaCenterAPITests\\IdeaCenterAPITests\\IdeaCenterAPITests\\Models\\IdeaDTO.cs",
+              "RelativeToolTip": "IdeaCenterAPITests\\Models\\IdeaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T05:23:06.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiResponseDTO.cs",
+              "DocumentMoniker": "D:\\DEV\\SoftUni_QA_Back-End-Test-Automation\\13.ExamPrep-1\\IdeaCenterAPITests\\IdeaCenterAPITests\\IdeaCenterAPITests\\Models\\ApiResponseDTO.cs",
+              "RelativeDocumentMoniker": "IdeaCenterAPITests\\Models\\ApiResponseDTO.cs",
+              "ToolTip": "D:\\DEV\\SoftUni_QA_Back-End-Test-Automation\\13.ExamPrep-1\\IdeaCenterAPITests\\IdeaCenterAPITests\\IdeaCenterAPITests\\Models\\ApiResponseDTO.cs",
+              "RelativeToolTip": "IdeaCenterAPITests\\Models\\ApiResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T05:22:52.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdeaCenterAPITests.cs",
+              "DocumentMoniker": "D:\\DEV\\SoftUni_QA_Back-End-Test-Automation\\13.ExamPrep-1\\IdeaCenterAPITests\\IdeaCenterAPITests\\IdeaCenterAPITests\\IdeaCenterAPITests.cs",
+              "RelativeDocumentMoniker": "IdeaCenterAPITests\\IdeaCenterAPITests.cs",
+              "ToolTip": "D:\\DEV\\SoftUni_QA_Back-End-Test-Automation\\13.ExamPrep-1\\IdeaCenterAPITests\\IdeaCenterAPITests\\IdeaCenterAPITests\\IdeaCenterAPITests.cs",
+              "RelativeToolTip": "IdeaCenterAPITests\\IdeaCenterAPITests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T05:21:54.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
