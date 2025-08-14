@@ -14,6 +14,11 @@ jobs:
 
     runs-on: ubuntu-latest
 
+    env:
+      TEST_USER_EMAIL:     "APITester@example.com"
+      TEST_USER_PASSWORD:  "APITester"
+      BASE_URL:            "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:84"
+
     steps:
     - uses: actions/checkout@v4
     - name: Setup .NET
