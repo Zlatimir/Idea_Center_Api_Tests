@@ -7,13 +7,13 @@ using System.Text.Json;
 namespace IdeaCenterAPITests
 {
     public class IdeaCenterApiTests
-    {
-        private const string Email = "APITester@example.com";
-        private const string Password = "APITester";
+    {        
+        private static readonly string Email = Environment.GetEnvironmentVariable("TEST_USER_EMAIL");
+        private static readonly string Password = Environment.GetEnvironmentVariable("TEST_USER_PASSWORD");
         private string jwtToken = string.Empty;
 
         private RestClient client;
-        private string baseUrl = "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:84";
+        private static readonly string baseUrl = Environment.GetEnvironmentVariable("BASE_URL");
 
         private static string lastCreatedIdeaId;
         private static string lastCreatedIdeaTitle;
